@@ -1,0 +1,51 @@
+consulta:
+-profissional_id
+-paciente_id
+-tipo_consulta_id
+-data consulta
+-descrição
+
+
+Profissional:
+-profissional_id
+-nome
+-função_id
+-categoria_id
+
+paciente:
+-paciente_id
+-nome
+- telemovel
+- residencia
+- descrição
+		
+função:
+-função_id
+-nome
+
+categoria:
+-categoria_id:
+-nome
+
+tipo consulta:
+-tipo_consulta_id
+- nome
+
+
+
+
+
+
+-o administrador é que escolhe os psicologos para o paciente.
+-marcação de horário?
+- IA ou questões preparadas para o chatbot?
+
+
+Dados de Acesso
+
+Username: consult1
+Password: Dqa2zR8(s3E+R3
+
+Painel de Controlo: http://89.116.31.234:2083/
+
+Quando o seu domínio for propagado, poderá utilizar também o seguinte endereço http://www.consultoriopsicoequilibrio.com:2083/ 
