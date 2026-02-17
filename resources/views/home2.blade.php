@@ -667,7 +667,7 @@ footer hr {
                 <ul class="navbar-nav ms-auto align-items-center">
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/sobrenos">Sobre Nós</a>
+                        <a class="nav-link" href="/sobrenos">Razão de Ser</a>
                     </li>
                     <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
@@ -908,7 +908,7 @@ footer hr {
                     <h5>Contacto</h5>
                     <p>
                         <i class="bi bi-telephone me-2"></i> +258 84 736 1470<br>
-                        <i class="bi bi-envelope me-2"></i> consultorio.equilibrio@gmail.com<br>
+                        <i class="bi bi-envelope me-2"></i> derciarita@gmail.com<br>
                         <i class="bi bi-geo-alt me-2"></i> Maputo, Moçambique
                     </p>
                     <div class="mt-2">
